@@ -18,4 +18,4 @@ contract ROYToken is ERC20 {
         _mintMinerReward();
         super._beforeTokenTransfer(from, to, value);
     }
-}
+} 
